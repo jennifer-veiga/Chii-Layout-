@@ -1,0 +1,112 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+
+header{
+    background-color: rgb(240, 181, 240);
+    width: 100%;
+    height: 120px;
+    cursor: pointer;
+    margin-top: -25px;
+    display: flex;
+}
+
+header > .cabe >h1{
+    margin-top: 60px;
+    margin-left: 775px;
+}
+
+.container{
+    display: flex;
+    width: 100%;
+}
+
+.container > .box1 > img{
+
+    height: 270px;
+    width: 270px;
+    margin-left:10px;
+    border-radius: 10px;
+    margin-top: 70px;
+}
+
+
+
+.container > .box2 > img{
+    height: 270px;
+    width: 270px;
+    margin-left:10px;
+    border-radius: 10px;
+    margin-top: 70px;
+
+}
+
+.container > .box3 > img{
+    height: 270px;
+    width: 270px;
+    margin-left:10px;
+    border-radius: 10px;
+    margin-top: 70px;
+
+}
+
+.container > .box1  > p{
+    margin-left: 35px;
+    margin-top: 45px;
+}
+
+.container > .box2  > p{
+    margin-left: 35px;
+    margin-top: 45px;
+}
+
+.container > .box3  > p{
+    margin-left: 35px;
+    margin-top: 45px;
+}
+
+.container > .box1{
+    background-color: rgb(219, 204, 204);
+    width: 600px;
+    height: 580px;
+    margin-right: 45px;
+    margin-left: 40px;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    text-align: center;
+}
+
+.container> .box2{
+    background-color: rgb(219, 204, 204);
+    width: 600px;
+    height: 580px;
+    margin-right: 45px;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    text-align: center;
+    
+}
+
+.container > .box3{
+    background-color: rgb(219, 204, 204);
+    width: 600px;
+    height: 580px;
+    margin-right: 45px;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    text-align: center;
+}
+
+footer{
+    background-color: rgb(240, 181, 240);
+    width: 100%;
+    height: 140px;
+    position: fixed;
+}
+
+footer > .pe > p{
+    margin-left: 55px;
+    margin-top: 60px;
+}

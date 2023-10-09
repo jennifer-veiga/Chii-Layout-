@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="styleTEXTINHO.css">
+    <title>2DAT1 - FRONT-END</title>
+</head>
+<body>
+    <header>
+        <div class="cabe">
+            <h1>Tipos de Emoções</h1>
+        </div>
+    </header>
+
+    <div class="container">
+
+        <div class="box1"> 
+            <h1>SURPRESO</h1>
+            <img src="chii.1.jpeg">
+            <p>Chii Admirado <3</p>
+        </div>
+
+        <div class="box2">
+            <h1>DORMINDO</h1>
+            <img src="chii.2.jpeg">
+            <p>Chii a Tirar uma Sonequinha <3</p>
+        </div>
+
+        <div class="box3">
+            <h1>FELIZ</h1>
+            <img src="chii.3.jpeg">
+            <p>Chii planejando artimanha <3</p>
+        </div>
+
+    </div>
+
+    <footer>
+
+        <div class="pe">
+            <p>Jennifer Veiga, N°12 :]</p>
+        </div>
+
+    </footer>
+    
+</body>
+</html>
